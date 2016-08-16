@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>certifi</name>
-  <version>2016.08.08</version>
+  <version>2015.11.20</version>
   <description>
 (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts. http://certifi.io
   </description>
