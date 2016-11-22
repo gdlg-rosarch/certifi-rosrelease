@@ -70,8 +70,8 @@ Versions of tools used:
 # certifi-rosrelease
 Releasing https://github.com/certifi/python-certifi for ROS
 
-| Indigo | Jade |
-|:------:|:----:|
-| [![Build Status](https://travis-ci.org/asmodehn/certifi-rosrelease.svg?branch=release%2Findigo%2Fcertifi)](https://travis-ci.org/asmodehn/certifi-rosrelease)| [![Build Status](https://travis-ci.org/asmodehn/certifi-rosrelease.svg?branch=release%2Fjade%2Fcertifi)](https://travis-ci.org/asmodehn/certifi-rosrelease) |
+| Indigo | Jade | Kinetic |
+|:------:|:----:|:-------:|
+| [![Build Status](https://travis-ci.org/asmodehn/certifi-rosrelease.svg?branch=release%2Findigo%2Fcertifi)](https://travis-ci.org/asmodehn/certifi-rosrelease)| [![Build Status](https://travis-ci.org/asmodehn/certifi-rosrelease.svg?branch=release%2Fjade%2Fcertifi)](https://travis-ci.org/asmodehn/certifi-rosrelease) | [![Build Status](https://travis-ci.org/asmodehn/certifi-rosrelease.svg?branch=release%2Fkinetic%2Fcertifi)](https://travis-ci.org/asmodehn/certifi-rosrelease) |
 
 
