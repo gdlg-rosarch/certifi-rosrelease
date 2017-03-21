@@ -1,3 +1,26 @@
+## certifi (kinetic) - 2015.11.20-2
+
+The packages in the `certifi` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic certifi` on `Tue, 21 Mar 2017 06:50:46 -0000`
+
+The `certifi` package was released.
+
+Version of package(s) in repository `certifi`:
+
+- upstream repository: https://github.com/certifi/python-certifi.git
+- release repository: https://github.com/asmodehn/certifi-rosrelease.git
+- rosdistro version: `2015.11.20-0`
+- old version: `2015.11.20-1`
+- new version: `2015.11.20-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.39`
+
+
 ## certifi (kinetic) - 2015.11.20-1
 
 The packages in the `certifi` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic certifi` on `Wed, 15 Mar 2017 08:41:59 -0000`
