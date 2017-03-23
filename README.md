@@ -1,3 +1,26 @@
+## certifi (indigo) - 2015.11.20-2
+
+The packages in the `certifi` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo certifi` on `Thu, 23 Mar 2017 06:49:03 -0000`
+
+The `certifi` package was released.
+
+Version of package(s) in repository `certifi`:
+
+- upstream repository: https://github.com/certifi/python-certifi.git
+- release repository: https://github.com/asmodehn/certifi-rosrelease.git
+- rosdistro version: `2015.11.20-1`
+- old version: `2015.11.20-1`
+- new version: `2015.11.20-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## certifi (jade) - 2015.11.20-1
 
 The packages in the `certifi` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade certifi` on `Thu, 23 Mar 2017 01:19:28 -0000`
